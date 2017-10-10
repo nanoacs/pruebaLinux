@@ -1,1 +1,2 @@
-Prieba de github en ArchLinux.
+Prueba de github en ArchLinux.
+
